@@ -8,9 +8,8 @@
         
 </head>
     <body>
-        <header class="topo">
-            LOGO / MENU    
-        </header>
+            <img style="width: 100%" src="\wordpress\wp-content\themes\Projeto\img\capa.jpg"> 
+        
 
 
 <nav class="navbar navbar-expand-md navbar-dark bg-dark" role="navigation">
@@ -19,7 +18,6 @@
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
-	<a class="navbar-brand" href="#">Navbar</a>
 
 		<?php //NÃO PODE APAGAR OU EDITAR
 
