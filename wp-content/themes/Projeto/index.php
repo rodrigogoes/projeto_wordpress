@@ -7,9 +7,9 @@
 
  <?php // IMPRIMIR POSTS  ?>
    
-              <div class='row' style="margin-right: 15px">
+              <div class='row' style="margin-right: 15px;">
         <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); 
-              echo "<div class='card' style='margin-right: 5px; margin-top: 5px' >
+              echo "<div class='card' style='margin-right: 5px; margin-top: 5px'; >
               <div class='card-header bg-dark text-white'>";?>
         
         <h1>
